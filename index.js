@@ -1,5 +1,5 @@
 const require = ("http");
-const port = 3000;
+const port = process.env.port || 3000;
 
 const app = http.createServer((req,res)=>{
     res.write("<h1>HelloWord</h1>");
