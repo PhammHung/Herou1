@@ -1,0 +1,19 @@
+{
+  "name": "herou1",
+  "version": "1.0.0",
+  "description": "the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhammHung/Herou1.git"
+  },
+  "author": "Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhammHung/Herou1/issues"
+  },
+  "homepage": "https://github.com/PhammHung/Herou1#readme"
+}
